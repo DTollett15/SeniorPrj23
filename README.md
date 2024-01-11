@@ -1,3 +1,1 @@
-# Scanner Bot
-## Senior Capstone Project: AmazonRobotics Group 2 
-## Peter Gansallo, Melidem Nwokolo, Ayomide Okeshola, Sarim Faruque, Darius Tollett
+(delete this repo, we're using a different one: https://github.com/HU-Robotics-2/ScannerBot)
